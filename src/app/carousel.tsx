@@ -40,37 +40,37 @@ const data = [
     category: "Artificial Intelligence",
     title: "You can do more with AI.",
     src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800",
-    content: null,
+    content: <DummyContent/>,
   },
   {
     category: "Productivity",
     title: "Enhance your productivity.",
     src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800",
-    content: null,
+    content: <DummyContent/>,
   },
   {
     category: "Product",
     title: "Launching the new Apple Vision Pro.",
     src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800",
-    content: null,
+    content: <DummyContent/>,
   },
 
   {
     category: "Product",
     title: "Maps for your iPhone 15 Pro Max.",
     src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800",
-    content:null,
+    content: <DummyContent/>,
   },
   {
     category: "iOS",
     title: "Photography just got better.",
     src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800",
-    content:null,
+    content: <DummyContent/>,
   },
   {
     category: "Hiring",
     title: "Hiring for a Staff Software Engineer",
     src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800",
-    content:null,
+    content: <DummyContent/>,
   },
 ];
